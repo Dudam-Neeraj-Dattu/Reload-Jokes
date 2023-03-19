@@ -19,7 +19,7 @@
 
 - Clone the Repository with:  
 ```bash 
-git clone https://github.com/ShreeChandanReddy-9/Click-Jokes
+git clone https://github.com/Dudam-Neeraj-Dattu/Reload-Jokes.git
 ```
 Once you have the code:
 
