@@ -7,7 +7,7 @@
         "default_icon" : "logo1.png"
     },
     "icons" :{
-        "128" : "logo.png"
+        "128" : "logo1.png"
     },
     "permissions" : ["activeTab"]
 
