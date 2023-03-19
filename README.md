@@ -13,7 +13,7 @@
  - JSON.
 
 ## Screenshots
-![edge](/Screenshots/joke.png)
+![edge](/Screenshots/joke1.png)
 
 ## Installation:
 
